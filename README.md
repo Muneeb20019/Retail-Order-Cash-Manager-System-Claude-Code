@@ -14,8 +14,10 @@ Access the production-ready dashboard here:
 ---
 
 ## 📺 System Walkthrough
-Watch the complete technical demonstration and development process:  
-🎥 **[Watch Video Demo on Loom](https://www.loom.com/share/85b70de76b1a4dfd9e7cac3d5e72e662)**
+
+🎥 Watch the complete technical demonstration and development process:
+
+https://www.loom.com/share/85b70de76b1a4dfd9e7cac3d5e72e662
 
 ---
 
