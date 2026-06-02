@@ -1,4 +1,4 @@
-# 💳 Retail-Ops-Orchestrator: Intelligent Order & Cash Reconciliation
+# 💳 Retail Order & Cash Manager System (Built with Claude Code)
 
 ![Airtable](https://img.shields.io/badge/Backend-Airtable%20API-18BFFF?style=flat&logo=airtable&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Agentic%20Dev-Claude%20Code-7B61FF?style=flat&logo=anthropic&logoColor=white)
@@ -7,11 +7,15 @@
 
 ---
 
-## 📺 Project Demo
-High-speed financial reconciliation for retail delivery teams.
+## 🚀 Live Application
+Access the production-ready dashboard here:  
+👉 **[Launch Retail Order & Cash Manager](https://project-aygsg.vercel.app)**
 
-**[🚀 Live Application Link](https://project-aygsg.vercel.app)**  
-**[🎥 System Walkthrough (Loom)](https://www.loom.com/share/85b70de76b1a4dfd9e7cac3d5e72e662)**
+---
+
+## 📺 System Walkthrough
+Watch the complete technical demonstration and development process:  
+🎥 **[Watch Video Demo on Loom](https://www.loom.com/share/85b70de76b1a4dfd9e7cac3d5e72e662)**
 
 ---
 
@@ -30,7 +34,7 @@ This project was architected using **Claude Code**, Anthropic's agentic develope
 
 ---
 
-## 📝 The System Lifecycle
+## 📝 The System Workflow
 
 ### 1️⃣ Real-Time Financial Dashboard
 The command center of the application. It calculates **"Today's Revenue"** (cash returned to store) and **"Cash on Road"** (active liability held by staff) in real-time. This ensures zero data blindspots for the business owner.
